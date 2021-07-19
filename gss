@@ -1,4 +1,4 @@
-secret_number = 9
+secret_number = 10
 Guess_limit = 3
 
 Guess_Count = 0
